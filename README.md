@@ -12,7 +12,7 @@ Open 1cHO inschrijvingen instelling.pbix The dashboard has some build in paramet
 ## Parameters
 
 ### FilePath
-Change this parameter to the filepath where your input, header end supporting files are located (for instance: J:\NPuls\1cHO\). Make sure to end the filepath with a "\".
+Change this parameter to the filepath where your input, header end supporting files are located (for instance: J:\NPuls\1cHO\\). Make sure to end the filepath with a "\\".
 
 ### Naam instellingsbestand
 This parameter refers to the full name of the 1cHO inschrijvingen instellingsbestand. Usually this is in the form of "EV21XX24.036" or something similar. In the testinput provided in the package the name of the file is "EV21PL24.asc". However, for your own organisation there is no need to transform the originally provided file into .asc format. PowerBI is able to read in the file as is.
