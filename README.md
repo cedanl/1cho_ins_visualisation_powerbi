@@ -116,3 +116,61 @@ In order to have a different set of characteristics for your legend which the vi
 <img width="1188" alt="Legend measure aanpassen" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/5f054c5b-97b0-4be6-95a2-ed773e5c1566">
 
 You can add additional characteristics in the form of: ("name you want shown in the slicer", NAMEOF('name of table'[measure or characteristic name]), integer which denotes order in the slicer). Additionally you can change the six characteristics already in the code by the same logic.
+
+## Slicers
+On the left of the dashboard there are seven slicers. With these slicers you can change which characteristics are shown:
+
+<img width="139" alt="Slicers" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/8f51d091-8780-44c5-88e5-fd3ac2037c8b">
+
+For instance, if you would change the 'Nationaliteits groep' slicer to 'Nederlandse' all the visuals will only show Dutch registrations. You can change multiple slicers at once and if the settings of one slicer would make for a certain characteristic in another slicer to not be there, then that slicer will not show that characteristic. For instance, if you would choose 'Nederlandse' again and there are no Dutch students under the age of 17, then the slicer 'Leeftijd' will not have the option '17 of jonger'.
+
+You can change the content of the slicer by selecting the slicer in the dashboard, go to the visualisation tab and dragging another characteristic from the data tab to the field:
+
+<img width="1253" alt="Aanpassen slicer" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/e3df0572-ef2d-4c3b-951a-1d6a22a32dca">
+
+## Help, Table, and Graph view
+On the left of the dashboard there are three clickable buttons:
+
+<img width="380" alt="3 buttons" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/ded6e771-f5ec-44f0-99b4-80cc00dc2928">
+
+The Help button, which shows an overlay with information regarding the dashboard:
+
+<img width="383" alt="Help button" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/6018e7a6-35df-4419-b172-2b9c59ffd8bb">
+
+The Table button, which will direct you to the table view (if you are not already in that view):
+
+<img width="383" alt="Table button" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/66a16080-1bc1-40c9-aca4-a04e1079a75f">
+
+And the Graph button, which will direct you to the graphics view (if you are not already in that view):
+
+<img width="383" alt="Graph button" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/6d4c26b9-a0a6-4c2b-87ce-a96be70e1f29">
+
+These powerBI buttons configured to follow certain bookmarks. To learn more about bookmarks visit: https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-bookmarks?tabs=powerbi-desktop
+
+## Json theme file
+Included in the repository are multiple json files. These files contain a powerBI theme. In these files you can adjust the default background, used colours in graphs and tables, lettertype, effects of your visuals and lay-out.
+
+In order to change the json used in your powerBI report go to the View tab, click on the downward arrow next to the them menu and select 'Browse for themes':
+
+<img width="370" alt="theme upload" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/038eceee-ea5d-416b-9ff3-487b855bfd35">
+
+Now you can select your json file and use this as your theme.
+
+### Background
+In order to change the background used in the json file you will first need to create a background image. For the uploaded json files powerpoint was used to create the background. After an image has been created this will need to be converted to base64 code. A useful website for this is https://www.base64-image.de/.
+
+After the conversion you can fill the code after "url" in the background image element in the json file:
+
+<img width="1026" alt="Background base64" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/b39c7326-a6b2-4597-99c8-208daa3f1bef">
+
+### DataColors
+In order to change the colours that are used in all your graphs you will need to change the "DataColors" element in the json:
+
+<img width="205" alt="DataColors" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/9bb66a09-f14c-4e9c-9253-3b4993806214">
+
+These are in HEX notation.
+
+### TextClasses
+You can also change the default font, size, and color of your text in all of your objectsin powerBI. This is done in the "textClasses" element in the json file:
+
+<img width="316" alt="Textclasses" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/9bcd0cb7-967f-4883-8130-92c561ef9cfd">
