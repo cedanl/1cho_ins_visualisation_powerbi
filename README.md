@@ -57,6 +57,17 @@ See nationaliteit 1. The current value refers to German.
 ### Nationaliteit 3
 See nationaliteit 1. The current value refers to Belgian.
 
+## Datatables
+The data tab on the rightside shows a number of tables. These tables contain your data:
+
+<img width="169" alt="Data tabellen" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/572c3349-b780-417d-9f06-2656409062f0">
+
+The main table is the 'Inschrijvingen' table. This contains all the information from 1cHO file. The other tables are linked to this table in order to help with visualisation and calculations.
+
+The datamodel button on the left will show you how the different tables are linked:
+
+<img width="757" alt="Data model" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/b5342c0e-4636-4a00-9967-9461c2dbbac1">
+
 ## KPI
 Currently the visualisations and tables in the dashboard are set to be able to show one of 4 KPI's. Which can be changed in the slicer in the top of the dashboard:
 
