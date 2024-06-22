@@ -11,19 +11,31 @@ You will need to download and install powerBI. A free to use download can be fou
 
 ### How to install the online version:
 The prerequisite for this option is that your organisation as some sort of microsoft licence. If your organisation uses microsoft teams, this should be in order. Go to https://app.powerbi.com and log in with your organisation's email account. Once you have logged in you can open your personal workspace (located in the left menu).
+
 <img width="55" alt="My workspace" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/748e1c3a-f914-4adb-8ed7-925e84a0dc45">
-In your personal workspace you can the upload the '1cHO inschrijvingen instelling.pbix'. <img width="203" alt="Upload workspace" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/9be0125f-da98-41d0-a079-45bb6ad015e0"> If you want to publish the dashboard to the rest of your organisation a powerBI pro or premium license is needed.
+
+In your personal workspace you can the upload the '1cHO inschrijvingen instelling.pbix'.
+
+<img width="203" alt="Upload workspace" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/9be0125f-da98-41d0-a079-45bb6ad015e0">
+
+If you want to publish the dashboard to the rest of your organisation a powerBI pro or premium license is needed.
 
 # Usage
 If you are using the desktop version just open 1cHO inschrijvingen instelling.pbix.
 
-When using the online version go to your personal workspace and click on '1cHO inschrijvingen instelling' (type report).<img width="462" alt="report workspace" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/911a465e-1171-41d5-b033-050fa0bbc985"> once in the report click on the edit button. <img width="745" alt="Edit" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/64b54ca2-d190-4655-b09e-865f663ec5e4">
+When using the online version go to your personal workspace and click on '1cHO inschrijvingen instelling' (type report).
+
+<img width="462" alt="report workspace" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/911a465e-1171-41d5-b033-050fa0bbc985">
+
+once in the report click on the edit button. <img width="745" alt="Edit" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/64b54ca2-d190-4655-b09e-865f663ec5e4">
 
 From here you can edit the dashboard to your liking! PowerBihas a lot of functions and we will not discuss all of these here. Below you find a description of the functions that you can adjust in order to use the dashboard for your own organisation.
 
 ## Parameters
 The dashboard has some build in parameters which let you adjust the default to fit your organisation's needs in data visualisation. Some of these parameters can remain on their defaults, others will need to be adjusted (for instance the filepath to the location of your input files).
-In order to adjust the parameters click on the downward arrow below the 'Transform data' button. Then click on 'Edit parameters' <img width="523" alt="Edit parameters" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/0b7f99ea-31b3-4a0d-b54e-b14b5e860c11">
+In order to adjust the parameters click on the downward arrow below the 'Transform data' button. Then click on 'Edit parameters' 
+
+<img width="523" alt="Edit parameters" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/0b7f99ea-31b3-4a0d-b54e-b14b5e860c11">
 
 ### FilePath
 Change this parameter to the filepath where your input, header end supporting files are located (for instance: J:\NPuls\1cHO\\). Make sure to end the filepath with a "\\".
