@@ -4,7 +4,7 @@ Each Higher Education institution receives the 1cHO_inschrijvingen_instellings_b
 PowerBi consists of a visualisation part and a data transformation part (powerquery). For this dashboard to run there is no need to tinker with the powerquery part. Any adjustments that might be needed for the powerqueries to run proparly can be made in the data visualisation part of powerBI through parameters (explained below). However, in order to get the full experience and possibilities of powerBI powerquery knowledge is a must.
 
 # Installation
-A prerequisite for running this package is being able to run powerBI, either the online version or the desktop version. It is highly recommended to use the desktop version, however for the purposes of the demo the online version should suffice. The desktop version lets you tinker with the powerqueries while the online version does not.
+A prerequisite for running this package is being able to run powerBI, either the online version or the desktop version. It is highly recommended to use the desktop version. However, you can also use the online version during the demo. You will miss out on some functionalities though. The desktop version lets you tinker with the powerqueries and the parameters while the online version does not.
 
 For both options you will need to download or pull the raw file 1cHO inschrijvingen instelling.pbix, NPuls Theme aanpas.json, the header_files, the supporting_files, and the input.
 
@@ -29,9 +29,14 @@ When using the online version go to your personal workspace and click on '1cHO i
 
 <img width="462" alt="report workspace" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/911a465e-1171-41d5-b033-050fa0bbc985">
 
-once in the report click on the edit button. <img width="745" alt="Edit" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/64b54ca2-d190-4655-b09e-865f663ec5e4">
+once in the report click on the edit button. 
+
+<img width="745" alt="Edit" src="https://github.com/ed2c/1cho_ins_visualisation_powerbi/assets/97895708/64b54ca2-d190-4655-b09e-865f663ec5e4">
 
 From here you can edit the dashboard to your liking! PowerBI has a lot of functions and we will not discuss all of these here. Below you find a description of the functions that you can adjust in order to use the dashboard for your own organisation.
+
+**Important!**
+When using the desktop version make sure to adjust the FilePath parameter to the location where the input, header end supporting files are located. see below for an explanation on how to do this.
 
 ## Parameters
 The dashboard has some build in parameters which let you adjust the default to fit your organisation's needs in data visualisation. Some of these parameters can remain on their defaults, others will need to be adjusted (for instance the filepath to the location of your input files).
