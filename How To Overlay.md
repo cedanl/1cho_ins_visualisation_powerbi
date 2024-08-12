@@ -1,0 +1,53 @@
+How to: Information overlay
+Image
+In order to make sure your organisation knows how to use your dashboards an information overlay might be a good idea. For the user this is a very easily accessible tool to use, without the need to read entire manuals or watch several videos with explanation.
+Make sure that your dashboard is finalised before you start working on the overlay. Because otherwise you will have to change the overlay every time something changes position in your dashboard. This particular overlay is created in Microsoft PowerPoint, but any image editor will do. The rest of the How To will discuss the steps taken with PowerPoint.
+First, make sure that your image editor has the same dimensions as dashboard (standard Power BI is 16:9). You should also make sure that you are getting the best resolution possible. Standard PowerPoint settings give the slide the following width and height:
+Image
+However, you should adjust this to the following width and height (if you are working with the standard 16:9 dimension in Power BI):
+Image
+Go to ‘Design’ in the ribbon, then click on ‘Slide Size’, and finally on ‘Custom Slide Size’ in order to change this:
+Image
+Now take a screenshot of the report page for which you are designing the overlay and upload it in PowerPoint and ensure the screenshot covers the entire slide.
+Image
+Now insert a rectangle shape and make sure it covers the entire slide:
+Image
+Give the rectangle the colour of your choice (I gave it the main theme colour) and make the shape transparent (I use 80% transparency).
+Image
+Image
+Now you can add some comments that you want your user to see. In my example we are using callouts, but you can do whatever you see fit to give as input to your users:
+Image
+After adding some comments your overlay might look something like this:
+Image
+Now for the final part you will need to make sure that the transparency remains intact. Therefore, you cannot use the normal save function that PowerPoint provides. Instead, select any of your shapes and go to ‘Shape Format’ in the ribbon and then click on ‘Selection Pane’.
+Image
+Now in the selection ensure to select all objects except the screenshot of your dashboard (or delete the screenshot of your dashboard, but still select all other objects!):
+Image
+Now right click, ‘save as’ and choose .png as type of picture.
+Now you have an overlay that can be used in Power BI! The way this overlay is used in Power BI is by the means of bookmarks. I would recommend giving this page a view in order to get help with using bookmarks: https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-bookmarks?tabs=powerbi-desktop. However, here is also a quick overview of using this particular type of bookmark as an overlay.
+In your Power BI dashboard go to ‘Insert’ and click on ‘Image’, now select your created overlay:
+Image
+Now make sure the overlay covers the edges:
+Image
+Now for the creation of bookmarks, go to ‘View’ in the ribbon and then click on ‘Bookmarks’:
+Image
+Now select your overlay (only your overlay) and click on ‘Add’ in the bookmark menu:
+Image
+Select your created bookmark in the bookmark menu and deselect ‘Data’ and select ‘Selected visuals’:
+Image
+This will be the bookmark that will make your overlay visible to the users. However, we do not want the overlay to be visible constantly. Therefore, we will need a bookmark that makes sure your overlay is invisible for your users, a default state.
+In the ‘View’ ribbon also select ‘Selection’. This will show you all of the different elements in your dashboard. The elements will get standard names from Power BI (the overlay will be named picture), I would suggest renaming the elements so you know what you are selecting:
+Image
+Now select your overlay element and click on the little eye icon next to it in the ‘Selection’ menu, after that the element will become invisible but also immediately unselected, reselect the overlay element in the ‘Selection’ menu:
+Image
+Now add another bookmark by again pressing ‘Add’ in the ‘Bookmark’ menu:
+Image
+Select your second created bookmark in the bookmark menu and deselect ‘Data’ and select ‘Selected visuals’ just as before:
+Image
+Now you have created the two states of your overlay, visible and invisible. Now you want to make sure that people can access both states. You will need a button or another element like a picture which you can click to access the bookmarks.
+After you have created whatever you want to use to access the bookmark click on that element, go to ‘Action’ in the Format pane and click on Type ‘Bookmark’ and select your first created bookmark:
+Image
+Hold Ctrl and left-click on your button and you should then get the transparent overlay to pop-up. Now you want to make sure that if your user clicks anywhere the overlay becomes invisible again. Luckily the overlay itself is clickable and covers the entire screen. So select the overlay, go to ‘Action’ in the Format image pane and click on Type ‘Bookmark’ and select your second bookmark (the one that makes the overlay invisible):
+Image
+Now hold Ctrl and left-click on the overlay and you should go back to your default dashboard view.
+One thing to note is that your overlay should always be the top element in your dashboard. Just make sure that the overlay is always the top-item in the selection pane, the ordering here shows which elements are in front of others, with the top one being the element most in front.
