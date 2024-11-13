@@ -3,6 +3,9 @@ Each Higher Education institution receives the 1cHO_inschrijvingen_instellings_b
 
 PowerBi consists of a visualisation part and a data transformation part (powerquery). For this dashboard to run there is no need to tinker with the powerquery part. Any adjustments that might be needed for the powerqueries to run proparly can be made in the data visualisation part of powerBI through parameters (explained below). However, in order to get the full experience and possibilities of powerBI powerquery knowledge is a must.
 
+# More information
+In this README the first usage of this package is explained. However, for more in depth information on how to use the package and the underlying data files please check the wiki: https://github.com/ed2c/1cho_ins_visualisation_powerbi/wiki
+
 # Installation
 A prerequisite for running this package is being able to run powerBI, either the online version or the desktop version. It is highly recommended to use the desktop version. However, you can also use the online version during the demo. You will miss out on some functionalities though. The desktop version lets you tinker with the powerqueries and the parameters while the online version does not.
 
