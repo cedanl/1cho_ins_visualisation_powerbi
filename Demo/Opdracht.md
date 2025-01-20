@@ -16,3 +16,11 @@ Daarnaast hebben we ook de 3 nationaliteitsparameters. Deze zorgen ervoor dat je
 
 Pas de nationaliteiten aan naar nationaliteiten waar jullie interesse in hebben (zie bestand dec_nationaliteitscode voor de codes die gebruikt worden voor de nationaliteiten) en klik op refresh.
 
+Pic 3
+
+## Opdracht 2: 'How-to' overlay maken
+
+## Opdracht 3: 'How-to' video maken en als tooltip gebruiken
+
+## Opdracht 4: Maak zelf een 'animated' button
+
