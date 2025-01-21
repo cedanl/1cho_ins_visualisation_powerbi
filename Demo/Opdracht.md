@@ -1,4 +1,4 @@
-# Opdrachten voor Demo
+![image](https://github.com/user-attachments/assets/ae384757-c948-4e85-8014-83c4297c084b)# Opdrachten voor Demo
 
 Voor deze demonstratie zijn enkele opdrachten voorbereid. Alle benodigde files voor deze opdrachten zijn in deze repository te vinden. Download allereerst de bestanden die in de map 'download' staan van de Demo. Zet deze bestanden in dezelfde map. Open vervolgens '1cHO inschrijvingen instelling demo.pbix'. Dit bestand is een kopie van het '1cHO inschrijvingen instelling.pbix' bestand met een extra 'Opdracht pagina'. Tijdens deze demonstratie wordt er met name op deze 'Opdracht pagina' gewerkt.
 
@@ -126,7 +126,68 @@ Houd wederom Ctrl ingedrukt en linkermuisklik op de overlay en nu ga je terug na
 
 Zorg er altijd voor de je 'help' overlay het bovenste element is in je dashboard. Dit kun je doen door in de selection pane de overlay altijd als bovenste element in het rijtje te hebben. De volgorde in de selection pane bepaald welke elementen voor andere staan.
 
-## Opdracht 3: 'How-to' video maken en als tooltip gebruiken
+## Opdracht 3a: 'How-to' video als tooltip gebruiken
+
+Om het de gebruikers nog makkelijker te maken kun je ook gebruik maken van een 'how to' video. Deze wil je vervolgens dan als een hover over pop-up laten zien. Om dit voor elkaar te krijgen kun je gebruik maken van tooltips. In het dashboard lijkt het alsof een button een tooltip heeft, echter power BI heeft deze functie nog niet. In werkelijkheid is er een andere visual gemaakt waar tooltips wel mogelijk zijn en deze over de 'vraagteken' button heen gezet:
+
+![Pic 4 How to](https://github.com/user-attachments/assets/5f24ab97-770d-4b10-91bf-c8350a2d80b5)
+
+Om dit voor elkaar te krijgen is er eerst een dummy measure gemaakt zonder echte data. Ga naar de 'Home' ribbon en selecteer 'New measure':
+
+![Pic 5 Measure](https://github.com/user-attachments/assets/5ae143cd-65bc-4bfb-ad0a-b6441c89e443)
+
+Geef deze measure een waarde van 'blank':
+
+![Pic 6 Dummy measure](https://github.com/user-attachments/assets/e3edf27d-83e1-46c9-b930-9e7948aa137e)
+
+Voeg nu een 'Card' visual toe in het rapport en zet deze over de 'vraagteken' button heen in het rapport:
+
+![Pic 7 Card visual](https://github.com/user-attachments/assets/e9ef1cd7-da92-417e-97b4-11f4691514b4)
+
+De 'Card' visual heeft nog een waarde nodig voordat deze actief is, geef de visual de waarde 'Dummy Measure':
+
+![Pic 8 card visual vullen](https://github.com/user-attachments/assets/690c9a7b-1731-424c-b0e7-1cd1798abf5c)
+
+Vervolgens moet er niks van de 'Card' zichtbaar zijn. Ga daarom in het 'Visualisations' menu naar de Callout value en Category label en stel ze als volgt in:
+
+![Pic 9 waardes card](https://github.com/user-attachments/assets/774d9c0f-c5bc-469c-bbbf-43af8b7abab9)
+
+Tenslotte moet er nog een tooltip aan toegevoegd worden. In de opdracht is al een tooltip pagina gemaakt met een video. Voor nu wordt er gebruik gemaakt van deze pagina, echter verderop in de opdracht wordt uitgelegd hoe deze video gemaakt is en de custom tooltip pagina.
+
+Ga in het 'Visualisations' menu naar 'General' en deselecteer 'Header icons' en selecteer 'Tooltips' Kies bij tooltips voor type 'Report page' en page 'TT gif' (de al gemaakte tooltip pagina met video):
+
+![Pic 10 tooltip kiezen](https://github.com/user-attachments/assets/68b37a00-e889-41d4-b12a-e8713b06cc05)
+
+Als er nu over de 'vraagteken' button heen gehovered wordt krijg je het filmpje te zien!
+
+## Opdracht 3b: 'How-to' video maken
+
+Om een 'how-to' video te maken is er gebruik gemaakt van het programma ScreenToGif (https://www.screentogif.com/). Echter, ieder screenrecording programma kan gebruikt worden hiervoor.
 
 ## Opdracht 4: Maak zelf een 'animated' button
+
+De laatste opdracht is om zelf een geanimeerde button te maken. Ook een handigheidje dat gebruikt kan worden om wat extra’s toe te voegen aan de rapportages. Let op! Hierdoor kan het rapport al snel overweldigend uitzien, maar wanneer met mate gebruikt kun je hier extra aandacht leggen op bepaalde aspecten van je rapport of bijvoorbeeld duidelijk maken dat de button interactief is.
+
+In de opdracht wordt de bewegende pijl gemaakt:
+
+![Pic 11 pijlk](https://github.com/user-attachments/assets/a7148dab-a108-4cef-8bd3-2f437cc4ce9c)
+
+Om deze te maken is wederom gebruik gemaakt van PowerPoint.
+
+Zorg ervoor dat de slide volledig leeg is en voeg daarna een 'kromme pijl' toe. Ga naar de 'Insert' ribbon en klik op 'Icons', zoek vervolgens naar 'arrow' en selecteer de 'kromme pijl':
+
+![Pic 12 icons kiezen](https://github.com/user-attachments/assets/d785d254-1475-4098-9143-192d7bdacc83)
+
+Pas de grootte en de orientatie van de pijl aan:
+
+![pic 13 orientatie pijl](https://github.com/user-attachments/assets/1545a024-2016-4575-9801-832500cbcfb5)
+
+Geef de achterkant van de slide dezelfde kleur als het dashboard. Ga naar de 'Design' ribbon, kies vervolgens 'Format Background' en selecteer de juiste kleur (#F4D74B):
+
+![pic 14 kleur achtergrond](https://github.com/user-attachments/assets/d3bf5c42-8a27-4e7c-9fec-277f078eaa59)
+
+Vervolgens wordt de animatie toegevoegd aan de pijl. Dit kan door de pijl te selecteren dan naar de 'Animations' ribbon te gaan en, kies 'Custom Path' en vervolgens op 'Add Animation' te klikken:
+
+![Pic 15 add animation](https://github.com/user-attachments/assets/d84a9f16-5042-4c00-9996-cc4711d4a021)
+
 
