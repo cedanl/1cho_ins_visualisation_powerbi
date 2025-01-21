@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ae384757-c948-4e85-8014-83c4297c084b)# Opdrachten voor Demo
+# Opdrachten voor Demo
 
 Voor deze demonstratie zijn enkele opdrachten voorbereid. Alle benodigde files voor deze opdrachten zijn in deze repository te vinden. Download allereerst de bestanden die in de map 'download' staan van de Demo. Zet deze bestanden in dezelfde map. Open vervolgens '1cHO inschrijvingen instelling demo.pbix'. Dit bestand is een kopie van het '1cHO inschrijvingen instelling.pbix' bestand met een extra 'Opdracht pagina'. Tijdens deze demonstratie wordt er met name op deze 'Opdracht pagina' gewerkt.
 
@@ -167,6 +167,8 @@ Om een 'how-to' video te maken is er gebruik gemaakt van het programma ScreenToG
 ## Opdracht 4: Maak zelf een 'animated' button
 
 De laatste opdracht is om zelf een geanimeerde button te maken. Ook een handigheidje dat gebruikt kan worden om wat extra’s toe te voegen aan de rapportages. Let op! Hierdoor kan het rapport al snel overweldigend uitzien, maar wanneer met mate gebruikt kun je hier extra aandacht leggen op bepaalde aspecten van je rapport of bijvoorbeeld duidelijk maken dat de button interactief is.
+
+![image](https://github.com/user-attachments/assets/ae384757-c948-4e85-8014-83c4297c084b)
 
 In de opdracht wordt de bewegende pijl gemaakt:
 
