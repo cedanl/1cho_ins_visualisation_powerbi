@@ -260,4 +260,28 @@ Doe ditzelfde voor het eindpunt van animatie 2 (rode cirkel) en sleep deze naar 
 
 Pas als laatste nog de animatie 'Duration' aan naar 0,50 zoals eerder.
 
-Nu is de animatie af!
+Sla nu het PowerPoint bestand een keer op met bestandtype png en een keer met bestandtype gif:
+
+![Opdracht 4 pic 21 save as](https://github.com/user-attachments/assets/372be238-091f-414f-87cc-70b27a79cfdf)
+
+Ga nu naar het power BI dashboard bestand en 'Opdracht pagina' en voeg een Blank Button toe:
+
+![Opdracht 4 pic 22 button](https://github.com/user-attachments/assets/8544c11a-5ee1-41b1-a9a6-8f02ceccd9a0)
+
+Selecteer de button, ga in het 'Format button' menu naar 'Style', deselecteer 'Icon' en 'Border' en selecteer 'Fill':
+
+![Opdracht 4 pic 23 Fill](https://github.com/user-attachments/assets/24afdecb-5046-40fb-b4d9-e680bd15dee2)
+
+Selecteer nu in de default state je png bestand en kies voor 'Fit' bij 'Image fit' en 'Transparency' 0%:
+
+![Opdracht 4 pic 24 still](https://github.com/user-attachments/assets/3a53206e-40e2-475d-88fb-8f50664cb63b)
+
+Selecteer nu in de hover state je gif bestand kies voor 'Fit' bij 'Image fit' en 'Transparency' 0%:
+
+![Opdracht 4 pic 25 ani](https://github.com/user-attachments/assets/b61edae4-eaf8-4dce-b4d8-a4fc47b1eb44)
+
+Nu heb je een download button die als je erover heen hovered beweegt zelf gemaakt.
+
+Mocht je download button nog niet bewegen bij hoveren zorg dan dat je in het 'Format button' menu de actie hebt geselecteerd:
+
+![Opdracht 4 pic 26 action](https://github.com/user-attachments/assets/3af24248-ead8-4adf-85e1-746bc9297437)
