@@ -170,13 +170,17 @@ De laatste opdracht is om zelf een geanimeerde button te maken. Ook een handighe
 
 ![image](https://github.com/user-attachments/assets/ae384757-c948-4e85-8014-83c4297c084b)
 
-In de opdracht wordt de bewegende pijl gemaakt:
+In de opdracht wordt een bewegende download button gemaakt:
 
 ![Pic 11 pijlk](https://github.com/user-attachments/assets/a7148dab-a108-4cef-8bd3-2f437cc4ce9c)
 
 Om deze te maken is wederom gebruik gemaakt van PowerPoint.
 
-Zorg ervoor dat de slide volledig leeg is en voeg daarna een 'kromme pijl' toe. Ga naar de 'Insert' ribbon en klik op 'Icons', zoek vervolgens naar 'arrow' en selecteer de 'kromme pijl':
+Zorg ervoor dat de slide volledig leeg is en pas de dimenties van de slide aan naar het volgende:
+
+
+
+en voeg daarna een 'kromme pijl' toe. Ga naar de 'Insert' ribbon en klik op 'Icons', zoek vervolgens naar 'arrow' en selecteer de 'kromme pijl':
 
 ![Pic 12 icons kiezen](https://github.com/user-attachments/assets/d785d254-1475-4098-9143-192d7bdacc83)
 
