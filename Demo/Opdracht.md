@@ -168,32 +168,96 @@ Om een 'how-to' video te maken is er gebruik gemaakt van het programma ScreenToG
 
 De laatste opdracht is om zelf een geanimeerde button te maken. Ook een handigheidje dat gebruikt kan worden om wat extra’s toe te voegen aan de rapportages. Let op! Hierdoor kan het rapport al snel overweldigend uitzien, maar wanneer met mate gebruikt kun je hier extra aandacht leggen op bepaalde aspecten van je rapport of bijvoorbeeld duidelijk maken dat de button interactief is.
 
-![image](https://github.com/user-attachments/assets/ae384757-c948-4e85-8014-83c4297c084b)
-
 In de opdracht wordt een bewegende download button gemaakt:
 
-![Pic 11 pijlk](https://github.com/user-attachments/assets/a7148dab-a108-4cef-8bd3-2f437cc4ce9c)
+![Opdracht 4 pic 2 button](https://github.com/user-attachments/assets/28a65696-74c6-465d-a1c2-b8d11621a0f4)
 
 Om deze te maken is wederom gebruik gemaakt van PowerPoint.
 
-Zorg ervoor dat de slide volledig leeg is en pas de dimenties van de slide aan naar het volgende:
+Open PowerPoint en zorg ervoor dat de slide volledig leeg is. Ga naar 'Design' in de 'ribbon' en klik op 'Slide Size' en ten slotte op 'Custom Slide Size':
 
+![Ribbon slide size](https://github.com/user-attachments/assets/06f6d88f-d4c2-4cb8-ba95-d25cd4caefe7)
 
+Pas hier de dimensies aan naar het volgende:
 
-en voeg daarna een 'kromme pijl' toe. Ga naar de 'Insert' ribbon en klik op 'Icons', zoek vervolgens naar 'arrow' en selecteer de 'kromme pijl':
+![Opdracht 4 pic 3 slide dimensies](https://github.com/user-attachments/assets/96107123-5351-4154-9ac8-f22fb92dcae3)
 
-![Pic 12 icons kiezen](https://github.com/user-attachments/assets/d785d254-1475-4098-9143-192d7bdacc83)
+Ga wederom naar 'Design' in de 'ribbon' en klik op 'Format Background' en klik op het emmertje naast 'Color':
 
-Pas de grootte en de orientatie van de pijl aan:
+![Opdracht 4 pic 4 kleur back](https://github.com/user-attachments/assets/92bb2461-148a-46cd-957a-ace4b44d199c)
 
-![pic 13 orientatie pijl](https://github.com/user-attachments/assets/1545a024-2016-4575-9801-832500cbcfb5)
+Klik op 'More colors...', vervolgens op 'Custom' en pas de HEX waarde aan naar #F4D74B:
 
-Geef de achterkant van de slide dezelfde kleur als het dashboard. Ga naar de 'Design' ribbon, kies vervolgens 'Format Background' en selecteer de juiste kleur (#F4D74B):
+![Opdracht 4 pic 5 kleur back](https://github.com/user-attachments/assets/b917452c-33af-4fe5-b2d4-1ef1f5d806a5)
 
-![pic 14 kleur achtergrond](https://github.com/user-attachments/assets/d3bf5c42-8a27-4e7c-9fec-277f078eaa59)
+Voeg nu een 'rounded rectangle' toe door naar 'Insert' te gaan in de ribbon, vervolgens 'Shapes' en kies de 'Rounded Rectangle':
 
-Vervolgens wordt de animatie toegevoegd aan de pijl. Dit kan door de pijl te selecteren dan naar de 'Animations' ribbon te gaan en, kies 'Custom Path' en vervolgens op 'Add Animation' te klikken:
+![Opdracht 4 pic 6 insert rect](https://github.com/user-attachments/assets/a834037d-35d1-44c4-bbd6-0c19e9fb50de)
 
-![Pic 15 add animation](https://github.com/user-attachments/assets/d84a9f16-5042-4c00-9996-cc4711d4a021)
+Rechtermuisklik op de net toegevoegde vorm en kies 'Format Shape...':
 
+![Opdracht 4 pic 7 format shape](https://github.com/user-attachments/assets/06373971-4341-41d7-8ab6-cb345e5f56a7)
 
+Ga in het Format shape menu naar de derde optie en vul daar de volgende afmetingen in:
+
+![Opdracht 4 pic 8 grootte](https://github.com/user-attachments/assets/5b36d4b6-4485-4f51-b5dc-840e6a4e4435)
+
+Pas nu de kleuren aan door in het Format shape menu naar de eerste optie te gaan en daar zowel de Fill als Line zwart te maken:
+
+![Opdracht 4 pic 9 kleur shape](https://github.com/user-attachments/assets/fca8c1c6-8307-43fa-8ad8-22e8255da92b)
+
+Selecteer de zojuist gemaakte vorm en versleep het gele bolletje om de hoeken ronder te maken:
+
+![Opdracht 4 pic 10 rounded corners](https://github.com/user-attachments/assets/9883c314-edf0-4ed5-8872-389bc06ec545)
+
+Kopieer en plak de zojuist gemaakte vorm. Rechtermuisklik op de nieuwe vorm en ga weer naar 'Format Shape...' en vul de volgende afmetingen in:
+
+![Opdracht 4 pic 11 left shape](https://github.com/user-attachments/assets/24e77104-ab8f-4ea7-bf79-fa8be8247f0f)
+
+Kopieer en plak de zojuist geemaakte vorm opnieuw (nu zijn er 3 vormen totaal). Rechtermuisklik op de nieuwe vorm en ga weer naar 'Format Shape...' en vul de volgende afmetingen in:
+
+![Opdracht 4 pic 12 right shape](https://github.com/user-attachments/assets/e694ef51-6bb2-43e4-b6f0-06898c601c47)
+
+Ga nu naar 'Insert' in de ribbon, kies 'Shapes' en klik op 'Arrow Down':
+
+![Opdracht 4 pic 13 arrow invoegen](https://github.com/user-attachments/assets/2653506c-76a9-4301-8c48-4e51cb64974b)
+
+Rechtermuisklik op de pijl en kies 'Format Shape...', ga naar de eerste optie en selecteer onderstaande:
+
+![Opdracht 4 pic 14 kleur en fill arrow](https://github.com/user-attachments/assets/dfedee99-032e-470e-8dcc-007088b609cf)
+
+Ga nu naar de derde optie in het 'Format Shape' menu en vul de volgende afmetingen in:
+
+![Opdracht 4 pic 15 afmetingen pijl](https://github.com/user-attachments/assets/a8723744-6830-4cda-a14c-eb9f05b5e02b)
+
+Dit is de niet bewegende variant van de 'download button'. In PowerPoint kun je animaties toevoegen aan vormen en in power BI worden deze animaties automatisch afgespeeld.
+
+Selecteer de pijl en klik op 'Animations' in de ribbon, klik op 'Add animation' en selecteer bij 'Motion Paths' 'Lines':
+
+![Opdracht 4 pic 16 add animation](https://github.com/user-attachments/assets/2e6408e6-35a6-4601-b527-f3f21d8e0003)
+
+Selecteer de pijl weer en sleep het eindpunt van de animatie (rode cirkel) naar boven totdat de punt van de pijl niet onder de rechthoek te zien is:
+
+![Opdracht 4 pic 17 ani 1 aanpassen](https://github.com/user-attachments/assets/a6bc6741-e3df-431e-a18f-8a65a6e56668)
+
+Pas vervolgens de animatie 'Duration' aan naar 0,50:
+
+![Opdracht 4 pic 18 ani tijd](https://github.com/user-attachments/assets/6d1c121d-2dca-4dfb-b209-6aeb04355d0f)
+
+Nu er een animatie naar beneden is gemaakt moet er ook nog een animatie naar boven worden gemaakt.
+
+Selecteer wederom de pijl en klik op 'Animations' in de ribbon, klik op 'Add animation' en selecteer bij 'Motion Paths' 'Lines' zoals eerder.
+
+Selecteer de pijl en selecteer animatie 2 door op de '2' linksboven te klikken:
+
+![Opdracht 4 pic 19 ani 2](https://github.com/user-attachments/assets/62c00f39-d4bb-46f2-b6b7-b2c318edac34)
+
+Zorg er nu voor dat het beginpunt van animatie 2 (groene cirkel) bij het eindpunt van animatie 1 komt door de groene cirkel te slepen:
+
+![Opdracht 4 pic 20 ani dim](https://github.com/user-attachments/assets/77f43128-a543-49fc-83cc-495462420538)
+
+Doe ditzelfde voor het eindpunt van animatie 2 (rode cirkel) en sleep deze naar het beginpunt van animatie 1, zoals in bovenstaande afbeelding.
+
+Pas als laatste nog de animatie 'Duration' aan naar 0,50 zoals eerder.
+
+Nu is de animatie af!
