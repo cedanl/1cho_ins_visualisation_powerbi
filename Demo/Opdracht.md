@@ -9,12 +9,11 @@ In de instellingrapportage zijn enkele parameters ingesteld. Deze parameters zor
 ![Pic 1 parameters](https://github.com/user-attachments/assets/7e41ba39-cdae-4b5f-b1ec-ea22c26e7ace)
 
 
-Pas de filepath parameter aan naar het filepath waar je jouw bestanden hebt staan. De naam parameter hoeft voor deze demo niet aangepast te worden.
+Pas de filepath parameter aan naar het filepath waar je jouw bestanden hebt staan. De naam parameter hoeft voor deze demo niet aangepast te worden:
 
 ![Pic 2 filepath](https://github.com/user-attachments/assets/9356df9f-b877-4b11-82dd-c0d9441cb341)
 
-
-Daarnaast hebben we ook de 3 nationaliteitsparameters. Deze zorgen ervoor dat je in de visualisaties een overzicht krijgt van de gekozen nationaliteiten in de volgorde zoals ze zijn opgegeven in de parameter. Er worden in de visualisaties ook nog EER en non-EER getoond, de gekozen nationaliteiten in de parameters worden in deze twee groepen niet meegenomen.
+Daarnaast zijn er ook de 3 nationaliteitsparameters. Deze zorgen ervoor dat in de visualisaties een wordt getoond van de gekozen nationaliteiten in de volgorde zoals ze zijn opgegeven in de parameter. Er worden in de visualisaties ook nog EER en non-EER getoond, de gekozen nationaliteiten in de parameters worden in deze twee groepen niet meegenomen.
 
 Pas de nationaliteiten aan naar nationaliteiten waar jullie interesse in hebben (zie bestand dec_nationaliteitscode voor de codes die gebruikt worden voor de nationaliteiten) en klik op refresh.
 
@@ -32,13 +31,13 @@ Ten eerste, zorg ervoor dat je afbeelding editor dezelfde dimensies heeft als he
 
 ![Standard powerpoint slide size](https://github.com/user-attachments/assets/42b9a1c3-2bf5-4aa7-99c3-cb5c419bf12f)
 
-Pas de breedte en hoogte in PowerPoint aan naar het volgende:
-
-![Adjusted powerpoint slide size](https://github.com/user-attachments/assets/a985c64c-5076-4353-acc9-e38cb40470dc)
-
 Ga naar 'Design' in de 'ribbon' en klik op 'Slide Size' en ten slotte op 'Custom Slide Size':
 
 ![Ribbon slide size](https://github.com/user-attachments/assets/06f6d88f-d4c2-4cb8-ba95-d25cd4caefe7)
+
+Pas de breedte en hoogte in PowerPoint aan naar het volgende:
+
+![Adjusted powerpoint slide size](https://github.com/user-attachments/assets/a985c64c-5076-4353-acc9-e38cb40470dc)
 
 Neem nu een screenshot van de 'Opdracht pagina' en upload deze in PowerPoint. Zorg ervoor dat het screenshot de hele slide bedekt: 
 
@@ -86,7 +85,7 @@ Om een bookmark toe te voegen ga je naar 'View' in de 'ribbon' en klik op 'Bookm
 
 ![Bookmark selection](https://github.com/user-attachments/assets/ec9c2fbc-7767-4885-be8b-59b42a156f4a)
 
-Selecteer nu je overlay (en alleen je overlay) en klik op 'Add' in hte bookmark menu:
+Selecteer nu je overlay (en alleen je overlay) en klik op 'Add' in het bookmark menu:
 
 ![add bookmark](https://github.com/user-attachments/assets/c282479b-d27b-46a6-9824-ccf81322a4f9)
 
@@ -96,7 +95,7 @@ Selecteer je gemaakte bookmark in het bookmark menu en deselecteer 'Data' en sel
 
 De zojuist gemaakte bookmark zorgt ervoor dat de overlay zichtbaar wordt voor de gebruikers. Er moet nu ook nog een bookmark gemaakt worden die ervoor zorgt dat de overlay onzichtbaar wordt voor de gebruikers.
 
-Selecteer in de 'View' ribbon ook 'Selection'. Dit toont de verschillende elementen in je dashboard. De elementen krijgen standaard namen van power BI (de overlay heet bijvoorbeeld 'picture'). Echter, voor werkbaarheid is het een goed idee om deze elementen te noemen naar wat ze vertegenwoordigen:
+Selecteer 'View' in de ribbon en vervolgens 'Selection'. Dit toont de verschillende elementen in je dashboard. De elementen krijgen standaard namen van power BI (de overlay heet bijvoorbeeld 'picture'). Echter, voor werkbaarheid is het een goed idee om deze elementen te noemen naar wat ze vertegenwoordigen:
 
 ![Selection powerBI](https://github.com/user-attachments/assets/683f1b98-bc9c-477f-88d7-f99be678b601)
 
@@ -112,7 +111,7 @@ Selecteer je tweede gemaakte bookmark in het bookmark menu en deselecteer 'Data'
 
 ![Selection bookmark visuals](https://github.com/user-attachments/assets/335c7312-41aa-4f82-bf15-148bef2543de)
 
-Nu zijn de twee staten van je overlay gemaakt, zichtbaar en onzichtbaar. Nu moet er nog voor gezorgd worden dat men toegang heeft to beide staten. In de opdracht is er al een button gemaakt (Help button) waaraan een actie toegevoegd kan worden om de overlay zichtbaar te maken.
+Nu zijn de twee staten van je overlay gemaakt, zichtbaar en onzichtbaar. Nu moet er nog voor gezorgd worden dat men toegang heeft tot beide staten. In de opdracht is er al een button gemaakt (Help button) waaraan een actie toegevoegd kan worden om de overlay zichtbaar te maken.
 
 Klik op het 'Help button' element, ga naar actie, klik op type 'Bookmark' en selecteer je eerst gemaakte bookmark:
 
@@ -132,7 +131,7 @@ Om het de gebruikers nog makkelijker te maken kun je ook gebruik maken van een '
 
 ![Pic 4 How to](https://github.com/user-attachments/assets/5f24ab97-770d-4b10-91bf-c8350a2d80b5)
 
-Om dit voor elkaar te krijgen is er eerst een dummy measure gemaakt zonder echte data. Ga naar de 'Home' ribbon en selecteer 'New measure':
+Om dit voor elkaar te krijgen is er eerst een dummy measure gemaakt zonder echte data. Ga naar 'Home' in de ribbon en selecteer 'New measure':
 
 ![Pic 5 Measure](https://github.com/user-attachments/assets/5ae143cd-65bc-4bfb-ad0a-b6441c89e443)
 
