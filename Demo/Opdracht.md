@@ -167,6 +167,26 @@ Na het openen van ScreenToGif selecteer je 'Recorder':
 
 <img width="375" alt="Opdract 3b pic 1 screentogif" src="https://github.com/user-attachments/assets/3c55760a-df75-499b-9e3e-de0330a76700" />
 
+Vervolgens pas je de grootte van het 'window' aan en sleept dit over het gedeelte van je scherm waar een recording van gemaakt moet worden en klik op 'Record':
+
+<img width="661" alt="Opdracht 3b pic 2 screen record" src="https://github.com/user-attachments/assets/aad2ed40-4a17-4ac1-9099-be1f6e677e4a" />
+
+Voer nu de handelingen uit die je in de 'how-to' video wilt tonen. Je kunt altijd frames eruit halen dus tussen de daadwerkelijke zaken die je wilt tonen kun je aanpassingen maken in de grootte van het recording 'window', de zoom, de tekst toevoegen, etc. Als je de laatste handeling hebt uitgevoerd klik dan op 'Stop':
+
+<img width="659" alt="Opdracht 3b pic 3 stop" src="https://github.com/user-attachments/assets/071dd75a-4ff1-495c-acb9-e002f722c692" />
+
+Nu kan de video worden ge-edit. De makkelijkste vorm is om onnodige frames eruit te halen. Selecteer deze frames onderin en druk 'Delete' in op je toetsenbord. Je kunt altijd op de play-button klikken om je video verloop te checken:
+
+<img width="717" alt="Opdracht 3b pic 4 edit" src="https://github.com/user-attachments/assets/729caf6e-a41b-4897-ac8b-dd242c842e8e" />
+
+Zodra je tevreden bent over de video sla je deze op als gif. Ga naar 'File', 'Save as', kies hier formaat 'Gif', selecteer de juiste locatie en naam van bestand en klik op 'Save':
+
+<img width="713" alt="Opdracht 3b pic 5 save" src="https://github.com/user-attachments/assets/db153acf-611e-4335-b232-241a2a58ae31" />
+
+Nu heb je een gif bestand gemaakt dat kan worden gebruikt in de Tooltip.
+
+## Opdracht 3c: Custom Tooltip maken
+
 
 ## Opdracht 4: Maak zelf een 'animated' button
 
