@@ -163,6 +163,11 @@ Als er nu over de 'vraagteken' button heen gehovered wordt krijg je het filmpje 
 
 Om een 'how-to' video te maken is er gebruik gemaakt van het programma ScreenToGif (https://www.screentogif.com/). Echter, ieder screenrecording programma kan gebruikt worden hiervoor.
 
+Na het openen van ScreenToGif selecteer je 'Recorder':
+
+<img width="375" alt="Opdract 3b pic 1 screentogif" src="https://github.com/user-attachments/assets/3c55760a-df75-499b-9e3e-de0330a76700" />
+
+
 ## Opdracht 4: Maak zelf een 'animated' button
 
 De laatste opdracht is om zelf een geanimeerde button te maken. Ook een handigheidje dat gebruikt kan worden om wat extra’s toe te voegen aan de rapportages. Let op! Hierdoor kan het rapport al snel overweldigend uitzien, maar wanneer met mate gebruikt kun je hier extra aandacht leggen op bepaalde aspecten van je rapport of bijvoorbeeld duidelijk maken dat de button interactief is.
