@@ -185,7 +185,7 @@ Zodra je tevreden bent over de video sla je deze op als gif. Ga naar 'File', 'Sa
 
 Nu heb je een gif bestand gemaakt dat kan worden gebruikt in de Tooltip.
 
-## Opdracht 3c: Custom Tooltip maken
+## Opdracht 3c: Custom Tooltip pagina maken
 
 
 ## Opdracht 4: Maak zelf een 'animated' button
