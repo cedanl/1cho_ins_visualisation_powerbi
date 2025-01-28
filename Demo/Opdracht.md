@@ -1,6 +1,6 @@
 # Opdrachten voor Demo
 
-Voor deze demonstratie zijn enkele opdrachten voorbereid. Alle benodigde files voor deze opdrachten zijn in deze repository te vinden. Download en unzip allereerst de bestanden die in 'Demo download.7z' staan van de Demo. Zet deze bestanden in dezelfde map. Open vervolgens '1cHO inschrijvingen instelling demo.pbix'. Dit bestand is een kopie van het '1cHO inschrijvingen instelling.pbix' bestand met een extra 'Opdracht pagina'. Tijdens deze demonstratie wordt er met name op deze 'Opdracht pagina' gewerkt.
+Voor deze demonstratie zijn enkele opdrachten voorbereid. Alle benodigde files voor deze opdrachten zijn in deze repository te vinden. Download en **unzip** allereerst de bestanden die in 'Demo download.7z' staan van de Demo. Zet deze bestanden in dezelfde map. Open vervolgens '1cHO inschrijvingen instelling demo.pbix'. Dit bestand is een kopie van het '1cHO inschrijvingen instelling.pbix' bestand met een extra 'Opdracht pagina'. Tijdens deze demonstratie wordt er met name op deze 'Opdracht pagina' gewerkt.
 
 ## Opdracht 1: Parameters aanpassen
 
