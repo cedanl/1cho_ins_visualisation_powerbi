@@ -187,6 +187,55 @@ Nu heb je een gif bestand gemaakt dat kan worden gebruikt in de Tooltip.
 
 ## Opdracht 3c: Custom Tooltip pagina maken
 
+Het laatste onderdeel van deze opdracht is om zelf een tooltip pagina te maken. Custom tooltips helpen om gebruikers de informatie te geven die standaard power BI tooltips niet geven.
+
+Allereerst moet er een extra pagina aan je rapport worden toegevoegd, klik op het plusje onderin je scherm:
+
+<img width="532" alt="Opdracht 3c pic 1 add page" src="https://github.com/user-attachments/assets/c548bb8b-05fa-4169-9099-dcf42f56bf4d" />
+
+Omdat er in het dasboard een standaard achtergrond in de json theme file zit wordt er automatisch een achtergrond toegevoegd aan de nieuwe pagina. Verwijder deze achtergrond door naar het 'Visualisations' pane te gaan, dan naar 'Canvas background' en vervolgens bij 'Image' op de 'X' te klikken:
+
+<img width="138" alt="Opdracht 3c pic 2 verwijder achtergrond" src="https://github.com/user-attachments/assets/c844d604-9dca-4426-97da-90c8a8aeb5b6" />
+
+Nu moet de pagina als tooltip gebruikt kunnen worden. Blijf in het 'Visualisations' pane, ga naar 'Page information' en selecteer 'Allow use as tooltip':
+
+<img width="144" alt="Opdracht 3c pic 3 allow tt" src="https://github.com/user-attachments/assets/d8bfee14-134e-4a43-a94e-805000dadb2c" />
+
+De dimensies van de pagina verspringen meteen naar een standaard gekozen door power BI voor tooltips. Voor de 'How-to' video zijn deze dimensies te klein.
+
+Blijf wederom in het 'Visualisations' pane en ga naar 'Canvas settings' en vul de volgende dimensies in:
+
+<img width="144" alt="Opdracht 3c pic 3 tooltip size" src="https://github.com/user-attachments/assets/1544c4f5-bf60-4a58-b5e7-2b9bb568e66c" />
+
+Om nu een video af te laten spelen moet er een button worden toegevoegd. Ga naar 'Insert', kies vervolgens 'Buttons' en selecteer 'Blank':
+
+<img width="538" alt="Opdracht 3c pic 4 blank button" src="https://github.com/user-attachments/assets/c5e84da9-ef75-4179-b15a-7fb272aa5ab3" />
+
+Pas de grootte van de button aan zodat deze er ongeveer zo uitziet:
+
+<img width="479" alt="Opdracht 3c pic 5 size button" src="https://github.com/user-attachments/assets/35788374-0499-4b54-811f-610fa550c71c" />
+
+Ga nu naar het 'Format button' pane , ga naar 'Style' en deselecteer 'Icon' en 'Border':
+
+<img width="138" alt="Opdracht 3c pic 6 format button" src="https://github.com/user-attachments/assets/fba8bd46-f2a2-40da-8195-c33329f2e10d" />
+
+Vervolgens wordt de video toegevoegd aan de button.
+
+Blijf in het 'Format button' pane, ga naar 'Style' en selecteer 'Fill', klik op 'Browse':
+
+<img width="140" alt="Opdracht 3c pic 7 Fill" src="https://github.com/user-attachments/assets/62a93d9f-ccf3-4d26-af7b-d9e8c1eed261" />
+
+Als je een video hebt gemaakt kun je deze nu selecteren, anders kies het 'How to filters.gif' bestand dat ook in de download zit.
+
+Kies bij 'Image fit' de optie 'Fit' en zet de 'Transparency' op 0%:
+
+<img width="147" alt="Opdracht 3c pic 8 video toevoegen" src="https://github.com/user-attachments/assets/5c77d99e-17a7-43e3-ac89-ca8185c2484b" />
+
+Om het af te maken kun je nog een textbox invoegen die aangeeft waar de gebruiker naar kijkt.
+
+Het eindresultaat zou er dan zo uit kunnen zien:
+
+<img width="463" alt="Opdracht 3c pic 9 eindresultaat" src="https://github.com/user-attachments/assets/30fe1706-8298-4e30-80f6-2dfd790884fb" />
 
 ## Opdracht 4: Maak zelf een 'animated' button
 
