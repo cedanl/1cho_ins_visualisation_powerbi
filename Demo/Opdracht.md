@@ -193,6 +193,10 @@ Allereerst moet er een extra pagina aan je rapport worden toegevoegd, klik op he
 
 <img width="532" alt="Opdracht 3c pic 1 add page" src="https://github.com/user-attachments/assets/c548bb8b-05fa-4169-9099-dcf42f56bf4d" />
 
+Deze pagina mag niet zichtbaar zijn voor je gebruikers in het dashboard. Rechtemuisklik op de net gevormde pagina onderin je scherm en klik op 'Hide':
+
+<img width="147" alt="Opdracht 3c pic 10 onzichtbaar" src="https://github.com/user-attachments/assets/8c728ff3-e8f2-49ee-91e5-5ce492b2f5c7" />
+
 Omdat er in het dasboard een standaard achtergrond in de json theme file zit wordt er automatisch een achtergrond toegevoegd aan de nieuwe pagina. Verwijder deze achtergrond door naar het 'Visualisations' pane te gaan, dan naar 'Canvas background' en vervolgens bij 'Image' op de 'X' te klikken:
 
 <img width="138" alt="Opdracht 3c pic 2 verwijder achtergrond" src="https://github.com/user-attachments/assets/c844d604-9dca-4426-97da-90c8a8aeb5b6" />
